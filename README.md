@@ -16,16 +16,21 @@ FUNCTIONS:
 Buy -
 The user can use this option to purchase a new investment or purchase additional investments to add to an existing investment. Specify the symbol, name, quantity, and price to buy a new investment.
 The hashmap is updated after a successful purchase.
+
 Sell -
 The user can use this option to sell an existing investment or a part of it. Specify the quantity or stocks or funds to be sold, symbol of the investment, and the price at which the investment is being sold. If the entire investment is sold, the record is removed from the system.
 The hashmap is updated after a successful sell. The payment received is displayed.
+
 Update -
 The user can use this option if he wishes to update th prices of all existing investments.
+
 Search -
 Using this option, the user can look for an investment based on a singular name keyword that he specifies using a Hashmap. This program currently works for only single keyword search.
 This is a faster approach as compared to the normal search function.
+
 GetGain -
 This option will help the user know the total gain of the portfolio at a point in time based on his existing investments. The user can see all individual gains as well.
+
 Quit -
 User can use this option to quit the program.
 
